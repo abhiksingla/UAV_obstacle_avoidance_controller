@@ -1,0 +1,12 @@
+scikit-image
+attrs
+h5py
+keras
+matplotlib
+numpy
+pillow
+protobuf>=3.0
+pydot-ng
+scipy
+semver
+gym[atari]
